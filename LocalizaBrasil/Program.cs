@@ -25,7 +25,7 @@ namespace LocalizaBrasil
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(car));
 
-            RentalService rentalService = new RentalService(priceHour, priceDay);
+            RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 

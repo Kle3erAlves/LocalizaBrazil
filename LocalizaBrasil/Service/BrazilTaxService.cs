@@ -1,7 +1,7 @@
 ﻿
 namespace LocalizaBrasil.Service
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService
     {             
        // Metodo
         public double Tax(double amount)           
