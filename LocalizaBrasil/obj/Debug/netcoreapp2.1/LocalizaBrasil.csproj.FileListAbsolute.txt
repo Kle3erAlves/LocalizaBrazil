@@ -1,0 +1,12 @@
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\bin\Debug\netcoreapp2.1\LocalizaBrasil.deps.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\bin\Debug\netcoreapp2.1\LocalizaBrasil.runtimeconfig.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\bin\Debug\netcoreapp2.1\LocalizaBrasil.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\bin\Debug\netcoreapp2.1\LocalizaBrasil.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\bin\Debug\netcoreapp2.1\LocalizaBrasil.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\LocalizaBrasil\LocalizaBrasil\obj\Debug\netcoreapp2.1\LocalizaBrasil.genruntimeconfig.cache
